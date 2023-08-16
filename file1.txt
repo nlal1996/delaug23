@@ -1,2 +1,3 @@
-Today is Wed
+Today is Wednesday
 We are learning Git & Unix
+Added content br1
