@@ -1,0 +1,2 @@
+Today is Wed
+We are learning Git & Unix
